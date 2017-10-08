@@ -73,7 +73,7 @@ namespace WindowsFormsApp5
                 // and show a MessageBox.
                 timer1.Stop();
                 MessageBox.Show("You got all the answers right!",
-                                "Congratulations!");
+                                "I am PROUD of you!");
                 startButton.Enabled = true;
             }
             else if (timeLeft > 0)
